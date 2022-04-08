@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T22:47:53.626Z" agent="5.0 (Macintosh)" etag="4rhUe6gWdVb7RGxCGrf9" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T22:49:25.890Z" agent="5.0 (Macintosh)" etag="KOwZBtmkGKcrNDnIEBqr" version="17.4.0" type="github">
   <diagram id="FRSoBtHujyncFjuJLg8h" name="Page-1">
     <mxGraphModel dx="2276" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -198,7 +198,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kzWBI1e0YCosuCWZ6FZc-31" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="N7xInEoGNkmSRCjMhbKC-1" source="kzWBI1e0YCosuCWZ6FZc-22" target="N7xInEoGNkmSRCjMhbKC-16">
+        <mxCell id="kzWBI1e0YCosuCWZ6FZc-31" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="N7xInEoGNkmSRCjMhbKC-1" source="kzWBI1e0YCosuCWZ6FZc-22" target="N7xInEoGNkmSRCjMhbKC-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="20" y="400" />
@@ -238,13 +238,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kzWBI1e0YCosuCWZ6FZc-1" value="&lt;div&gt;DMS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.database_migration_service;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-44" y="505" width="67" height="67" as="geometry" />
+          <mxGeometry x="-36" y="505" width="67" height="67" as="geometry" />
         </mxCell>
         <mxCell id="kzWBI1e0YCosuCWZ6FZc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kzWBI1e0YCosuCWZ6FZc-4" target="kzWBI1e0YCosuCWZ6FZc-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kzWBI1e0YCosuCWZ6FZc-4" value="&lt;div&gt;On prem MySQL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-41" y="394.5" width="60" height="64.5" as="geometry" />
+          <mxGeometry x="-33" y="394.5" width="60" height="64.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
