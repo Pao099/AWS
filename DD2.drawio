@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T22:36:37.708Z" agent="5.0 (Macintosh)" etag="EVBVZlv0fpvHnhQtP42U" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T22:37:10.044Z" agent="5.0 (Macintosh)" etag="TC5RXt4gTHgady6Kdwbe" version="17.4.0" type="github">
   <diagram id="FRSoBtHujyncFjuJLg8h" name="Page-1">
     <mxGraphModel dx="2276" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -226,7 +226,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kzWBI1e0YCosuCWZ6FZc-4" value="&lt;div&gt;On prem MySQL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-142" y="506.5" width="60" height="64.5" as="geometry" />
+          <mxGeometry x="-41" y="394.5" width="60" height="64.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
