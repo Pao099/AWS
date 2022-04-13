@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T19:16:41.841Z" agent="5.0 (Macintosh)" etag="Dc9jqE1fXIdlb1NA6zCO" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T00:02:48.735Z" agent="5.0 (Macintosh)" etag="fZFpktRtjFeY74gV1bmL" version="17.4.3" type="github">
   <diagram id="FRSoBtHujyncFjuJLg8h" name="Page-1">
     <mxGraphModel dx="2276" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -225,8 +225,8 @@
             <mxPoint x="241" y="62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3JxnS5d0L0PRlOjddsI_-27" value="&lt;div&gt;S3 Transfer Acceleration&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="56" y="712" width="150" height="30" as="geometry" />
+        <mxCell id="3JxnS5d0L0PRlOjddsI_-27" value="&lt;div&gt;S3 Multipart Upload&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="71" y="712" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
