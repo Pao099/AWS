@@ -1,13 +1,1 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T00:07:04.219Z" agent="5.0 (Macintosh)" etag="LgLPkyVW6Plig2B3kE5q" version="19.0.0" type="github">
-  <diagram id="b2Ukrg3TRhGxecHweclR" name="Page-1">
-    <mxGraphModel dx="1666" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="1SsmTIkDtGnG6RVDBQk4-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d1.awsstatic.com/webteam/getting_started/GSRC%202020%20updates/full-stack%20amplify%20console%20arch%20diagram%20module%205.8d82fc2a7b47b307dfcefb6fa5f364e8c24426bc.png;" vertex="1" parent="1">
-          <mxGeometry x="280" y="50" width="520" height="222" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-</mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-16T16:41:35.403Z" agent="5.0 (Macintosh)" version="20.0.1" etag="L2aifOVhR4xo6O-VLsn-" type="github"><diagram id="-haZrfx0UT3Tq5ZYkemi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
