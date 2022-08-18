@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-18T23:16:00.415Z" agent="5.0 (Macintosh)" etag="eP46OOs34J05q4A6Q-mI" version="20.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-18T23:18:08.323Z" agent="5.0 (Macintosh)" etag="cjg1VvtozgZkJgy9c21y" version="20.2.5" type="github" pages="2">
   <diagram id="FRSoBtHujyncFjuJLg8h" name="Page-1">
     <mxGraphModel dx="1820" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -137,11 +137,13 @@
         <mxCell id="KKD5ZWP2EROIvAaSfn_G-23" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="350" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KKD5ZWP2EROIvAaSfn_G-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KKD5ZWP2EROIvAaSfn_G-1" target="KKD5ZWP2EROIvAaSfn_G-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KKD5ZWP2EROIvAaSfn_G-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KKD5ZWP2EROIvAaSfn_G-1" target="KKD5ZWP2EROIvAaSfn_G-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KKD5ZWP2EROIvAaSfn_G-1" value="&lt;div&gt;Spark- &lt;br&gt;&lt;/div&gt;&lt;div&gt;real time analytics and ML using in memory RDD&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/vivid/48/thunder-128.png" vertex="1" parent="1">
-          <mxGeometry x="375" y="100" width="70" height="70" as="geometry" />
+          <mxGeometry x="400" y="79" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KKD5ZWP2EROIvAaSfn_G-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KKD5ZWP2EROIvAaSfn_G-3">
           <mxGeometry relative="1" as="geometry">
@@ -203,10 +205,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KKD5ZWP2EROIvAaSfn_G-16" value="Drill- to query for database" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/128x128/apps/package_utilities.png" vertex="1" parent="1">
-          <mxGeometry x="570" y="110" width="80" height="80" as="geometry" />
+          <mxGeometry x="610" y="115" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KKD5ZWP2EROIvAaSfn_G-18" value="Hbase- real time modification of data before feeding to HDFS" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/text-h-one-128.png" vertex="1" parent="1">
-          <mxGeometry x="140" y="130" width="50" height="50" as="geometry" />
+          <mxGeometry x="80" y="130" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KKD5ZWP2EROIvAaSfn_G-19" value="Hadoop- uses YARN to EMR data in HDFS" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-4/256/text-h-fill-128.png" vertex="1" parent="1">
           <mxGeometry x="380" y="230" width="60" height="60" as="geometry" />
@@ -225,7 +227,7 @@
         <mxCell id="KKD5ZWP2EROIvAaSfn_G-22" value="Presto- honorable mention- sql processing of big data " style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/pinterest-p-128.png" vertex="1" parent="1">
           <mxGeometry x="60" y="530" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jgzP4tdewcm6pL5Wm7lH-1" value="&lt;div&gt;Zepelin- web-based interactive data analytics&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-duotone-vol-1/256/bell-z-duotone-128.png;strokeColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="jgzP4tdewcm6pL5Wm7lH-1" value="&lt;div&gt;Zeppelin- web-based interactive data analytics&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-duotone-vol-1/256/bell-z-duotone-128.png;strokeColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="290" y="490" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jgzP4tdewcm6pL5Wm7lH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="jgzP4tdewcm6pL5Wm7lH-2" target="KKD5ZWP2EROIvAaSfn_G-23">
