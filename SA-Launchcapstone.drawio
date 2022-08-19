@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-18T23:23:12.152Z" agent="5.0 (Macintosh)" etag="RJaWxgn0ZHNDNz1Fc0Db" version="20.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-19T01:14:56.384Z" agent="5.0 (Macintosh)" etag="bqvIfVL5p0AcFER6AyA7" version="20.2.5" type="github" pages="3">
   <diagram id="FRSoBtHujyncFjuJLg8h" name="Page-1">
     <mxGraphModel dx="1820" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -242,6 +242,17 @@
         </mxCell>
         <mxCell id="3CxrepgKUroiKxXeubKB-1" value="&lt;div&gt;Flink-&lt;/div&gt;&lt;div&gt;both batch and stream analytics&lt;br&gt;&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-40-128.png;strokeColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="30" y="360" width="70" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ecCM1jhfljQhwbwiPNCL" name="Page-3">
+    <mxGraphModel dx="970" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7lJl70g4Bq9VTKydMR3w-1" value="&lt;div&gt;IDEALLY:&lt;/div&gt;&lt;div&gt;Stream Data- Stream via KS, realtime analytics via KDA, Transform and load via KFH,&lt;/div&gt;&lt;div&gt;Batch historical data via S3 Multipart upload-STRUCTURED DATA-S3-Ad Hoc querying via ATHENA&lt;/div&gt;&lt;div&gt;- BI visualization via QUICKSIGHT&lt;/div&gt;&lt;div&gt;-ML via Personalize&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="560" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
