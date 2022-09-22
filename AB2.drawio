@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T16:56:46.739Z" agent="5.0 (Macintosh)" etag="P3wGbl8BeWIam0HGMM-J" version="20.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-22T17:13:15.404Z" agent="5.0 (Macintosh)" etag="Lks8b-faHXQgTkZEHzrJ" version="20.3.0" type="github" pages="4">
   <diagram id="FFXtlg2HfYRVedAv5AXh" name="Page-1">
     <mxGraphModel dx="2306" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -183,7 +183,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-1" id="sgor8R9DYq6fBAwvTMJX">
-    <mxGraphModel dx="2306" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3586" dy="1900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="WvJz3vyPXwWXAaWXzbZI-0" />
         <mxCell id="WvJz3vyPXwWXAaWXzbZI-1" parent="WvJz3vyPXwWXAaWXzbZI-0" />
@@ -326,7 +326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Copy of Page-1" id="94e6eySfl21mE-ny9P2v">
-    <mxGraphModel dx="2306" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3586" dy="1900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="-zm9-sOjf1BTIwhNm3BM-0" />
         <mxCell id="-zm9-sOjf1BTIwhNm3BM-1" parent="-zm9-sOjf1BTIwhNm3BM-0" />
@@ -468,8 +468,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of Copy of Page-1" id="rhrtLY8Wz3ydx45BhHp8">
-    <mxGraphModel dx="2306" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram name="Demo Architecture" id="rhrtLY8Wz3ydx45BhHp8">
+    <mxGraphModel dx="3586" dy="1900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ZCjYAn_fO5NXEEUo7AcE-0" />
         <mxCell id="ZCjYAn_fO5NXEEUo7AcE-1" parent="ZCjYAn_fO5NXEEUo7AcE-0" />
