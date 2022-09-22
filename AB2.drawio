@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T18:52:15.571Z" agent="5.0 (Macintosh)" etag="uz2EpY9FXECd4X7vuvM1" version="20.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-22T18:53:19.274Z" agent="5.0 (Macintosh)" etag="TAlQ_FPz26xSq_aeof1a" version="20.3.0" type="github" pages="4">
   <diagram id="FFXtlg2HfYRVedAv5AXh" name="Page-1">
-    <mxGraphModel dx="2306" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3586" dy="1900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -415,7 +415,7 @@
         <mxCell id="-zm9-sOjf1BTIwhNm3BM-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-zm9-sOjf1BTIwhNm3BM-1" source="-zm9-sOjf1BTIwhNm3BM-23" target="-zm9-sOjf1BTIwhNm3BM-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-zm9-sOjf1BTIwhNm3BM-23" value="Training Dataset" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="-zm9-sOjf1BTIwhNm3BM-1">
+        <mxCell id="-zm9-sOjf1BTIwhNm3BM-23" value="Training Dataset in Amazon S3" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="-zm9-sOjf1BTIwhNm3BM-1">
           <mxGeometry x="609" y="227.25" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="-zm9-sOjf1BTIwhNm3BM-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-zm9-sOjf1BTIwhNm3BM-1" source="-zm9-sOjf1BTIwhNm3BM-25" target="-zm9-sOjf1BTIwhNm3BM-29">
@@ -463,7 +463,7 @@
           <mxGeometry x="476" y="69.25" width="72" height="78" as="geometry" />
         </mxCell>
         <mxCell id="-zm9-sOjf1BTIwhNm3BM-39" value="Region" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=1;" vertex="1" parent="-zm9-sOjf1BTIwhNm3BM-1">
-          <mxGeometry x="190" y="45.5" width="770" height="440" as="geometry" />
+          <mxGeometry x="170" y="50" width="770" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
