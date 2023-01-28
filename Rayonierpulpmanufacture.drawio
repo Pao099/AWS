@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2023-01-28T00:45:30.251Z" agent="5.0 (Macintosh)" version="20.8.1" etag="qozDdDQpGgG8WOmwUON1" type="github"><diagram id="3LiHyw1H0krLobeO_zLL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-28T00:52:12.674Z" agent="5.0 (Macintosh)" version="20.8.1" etag="rTVZKMxU5jzR4YTixQjd" type="github">
+  <diagram id="TB6GL7cPLUMWL0FS7bqZ" name="Page-1">
+    <mxGraphModel dx="2154" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-1D-H3BYv4BlZ4mutpVC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-1D-H3BYv4BlZ4mutpVC-1" target="-1D-H3BYv4BlZ4mutpVC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1D-H3BYv4BlZ4mutpVC-1" value="Boston Dynamics Spot" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/199_robot_Android_artificial_bot_technology_app_development-128.png" vertex="1" parent="1">
+          <mxGeometry x="20" y="190" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="-1D-H3BYv4BlZ4mutpVC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-1D-H3BYv4BlZ4mutpVC-3" target="-1D-H3BYv4BlZ4mutpVC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1D-H3BYv4BlZ4mutpVC-3" value="LEVATAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="224" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1D-H3BYv4BlZ4mutpVC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-1D-H3BYv4BlZ4mutpVC-4" target="-1D-H3BYv4BlZ4mutpVC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1D-H3BYv4BlZ4mutpVC-4" value="DATAVERSE" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/adobe-icons-professional/64/Dw.png" vertex="1" parent="1">
+          <mxGeometry x="425" y="222" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="-1D-H3BYv4BlZ4mutpVC-5" value="ML ON AZURE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="224" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1D-H3BYv4BlZ4mutpVC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-1D-H3BYv4BlZ4mutpVC-9" target="-1D-H3BYv4BlZ4mutpVC-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1D-H3BYv4BlZ4mutpVC-9" value="ERM DATA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="54" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1D-H3BYv4BlZ4mutpVC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-1D-H3BYv4BlZ4mutpVC-10" target="-1D-H3BYv4BlZ4mutpVC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1D-H3BYv4BlZ4mutpVC-10" value="ON EC2" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.sap_hana;" vertex="1" parent="1">
+          <mxGeometry x="220" y="400" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="-1D-H3BYv4BlZ4mutpVC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-1D-H3BYv4BlZ4mutpVC-13" target="-1D-H3BYv4BlZ4mutpVC-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1D-H3BYv4BlZ4mutpVC-13" value="SHOP DATA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1D-H3BYv4BlZ4mutpVC-15" value="CITRIX VD" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Citrix_Virtual_Desktops_Essentials.svg;" vertex="1" parent="1">
+          <mxGeometry x="50" y="560" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
