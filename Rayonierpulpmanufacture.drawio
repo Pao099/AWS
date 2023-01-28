@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-28T00:55:30.631Z" agent="5.0 (Macintosh)" version="20.8.1" etag="iLly9j--h5KUR9iv6HaB" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-28T00:56:52.298Z" agent="5.0 (Macintosh)" version="20.8.1" etag="cVcJkol3idDpvurywaOY" type="github">
   <diagram id="TB6GL7cPLUMWL0FS7bqZ" name="Page-1">
     <mxGraphModel dx="2154" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="-1D-H3BYv4BlZ4mutpVC-18" value="POSSIBLE: INDUSTRY USE FOR AWS ON PULP MFG, LOGISTICS OPTIMZATIION/ LEAN / MONITORING " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="730" width="610" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1D-H3BYv4BlZ4mutpVC-20" value="logs, process to pulp, &lt;b&gt;admin&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="85" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
