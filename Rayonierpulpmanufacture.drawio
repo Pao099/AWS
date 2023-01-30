@@ -1,61 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2023-01-30T22:35:31.016Z" agent="5.0 (Macintosh)" etag="NQAFPj7lTBHY1zPm8ZcQ" version="20.8.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-30T23:08:25.579Z" agent="5.0 (Macintosh)" etag="53-LY6F9XWpeUxChFYuf" version="20.8.13" type="github" pages="2">
   <diagram id="TB6GL7cPLUMWL0FS7bqZ" name="Page-1">
-    <mxGraphModel dx="3004" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2154" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tlYy_X2xryo4qnqqx1ef-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="skjePO2aVrYpp5MH0KTP-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="skjePO2aVrYpp5MH0KTP-5" value="OSISOFT PI DATA HISTORIAN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="198" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="207" y="115" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="skjePO2aVrYpp5MH0KTP-3" value="AZURE ENVIRONMENT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="435" y="115" width="425" height="145" as="geometry" />
+          <mxGeometry x="484" y="65" width="356" height="145" as="geometry" />
         </mxCell>
         <mxCell id="skjePO2aVrYpp5MH0KTP-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="425" y="334" width="445" height="150" as="geometry" />
+          <mxGeometry x="522" y="320" width="145" height="150" as="geometry" />
         </mxCell>
         <mxCell id="-1D-H3BYv4BlZ4mutpVC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-1D-H3BYv4BlZ4mutpVC-1" target="-1D-H3BYv4BlZ4mutpVC-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-1D-H3BYv4BlZ4mutpVC-1" value="Boston Dynamics Spot" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/199_robot_Android_artificial_bot_technology_app_development-128.png" parent="1" vertex="1">
-          <mxGeometry x="60" y="185" width="80" height="80" as="geometry" />
+          <mxGeometry x="150" y="204" width="42" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="-1D-H3BYv4BlZ4mutpVC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-1D-H3BYv4BlZ4mutpVC-3" target="-1D-H3BYv4BlZ4mutpVC-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="tlYy_X2xryo4qnqqx1ef-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-1D-H3BYv4BlZ4mutpVC-3" target="skjePO2aVrYpp5MH0KTP-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="234" y="190" />
+              <mxPoint x="234" y="190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-1D-H3BYv4BlZ4mutpVC-3" value="LEVATAS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="210" width="54" height="30" as="geometry" />
+          <mxGeometry x="207" y="210" width="54" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-1D-H3BYv4BlZ4mutpVC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-1D-H3BYv4BlZ4mutpVC-4" target="-1D-H3BYv4BlZ4mutpVC-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-1D-H3BYv4BlZ4mutpVC-4" value="DATAVERSE" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/adobe-icons-professional/64/Dw.png" parent="1" vertex="1">
-          <mxGeometry x="530" y="193" width="64" height="64" as="geometry" />
+          <mxGeometry x="550" y="113" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="-1D-H3BYv4BlZ4mutpVC-5" value="ML ON AZURE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="195" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-1D-H3BYv4BlZ4mutpVC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-1D-H3BYv4BlZ4mutpVC-9" target="-1D-H3BYv4BlZ4mutpVC-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="310" y="592" />
-              <mxPoint x="310" y="589" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="750" y="115" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-1D-H3BYv4BlZ4mutpVC-9" value="ERM DATA FROM SALES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="54" y="582" width="126" height="30" as="geometry" />
+          <mxGeometry x="531.5" y="420" width="126" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-1D-H3BYv4BlZ4mutpVC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-1D-H3BYv4BlZ4mutpVC-10" target="-1D-H3BYv4BlZ4mutpVC-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-1D-H3BYv4BlZ4mutpVC-10" value="ON EC2" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.sap_hana;" parent="1" vertex="1">
-          <mxGeometry x="450" y="370" width="34" height="34" as="geometry" />
+          <mxGeometry x="565" y="350" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="-1D-H3BYv4BlZ4mutpVC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="skjePO2aVrYpp5MH0KTP-5" target="-1D-H3BYv4BlZ4mutpVC-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="367" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-1D-H3BYv4BlZ4mutpVC-13" value="SHOP DATA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="8" y="115" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="skjePO2aVrYpp5MH0KTP-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-1D-H3BYv4BlZ4mutpVC-15" target="-1D-H3BYv4BlZ4mutpVC-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -66,20 +72,17 @@
         <mxCell id="-1D-H3BYv4BlZ4mutpVC-16" value="APPSTEAM 2.0 FOR BROWSER USE" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#116D5B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.appstream_20;" parent="1" vertex="1">
           <mxGeometry x="198" y="722" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="-1D-H3BYv4BlZ4mutpVC-18" value="POSSIBLE: INDUSTRY USE FOR AWS ON PULP MFG, LOGISTICS OPTIMZATIION/ LEAN / MONITORING " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry y="840" width="610" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="skjePO2aVrYpp5MH0KTP-4" value="AWS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="385" y="617" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="skjePO2aVrYpp5MH0KTP-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" parent="1" source="-1D-H3BYv4BlZ4mutpVC-13" target="skjePO2aVrYpp5MH0KTP-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="672" as="sourcePoint" />
             <mxPoint x="367" y="596" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="skjePO2aVrYpp5MH0KTP-9" value="AWS PANORAMA FOR MODEL CODE AND INFERENCE (4K EACH)" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#116D5B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.panorama;" parent="1" vertex="1">
-          <mxGeometry x="130" y="370" width="78" height="78" as="geometry" />
+        <mxCell id="tlYy_X2xryo4qnqqx1ef-2" value="AZURE DATA FACTORY" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="1">
+          <mxGeometry x="570" y="191" width="49" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tlYy_X2xryo4qnqqx1ef-4" value="PI, analytics, predictive maintenance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="216" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
