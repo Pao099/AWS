@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-30T23:27:14.596Z" agent="5.0 (Macintosh)" etag="qU_bjFlgy7pis8F0TJXZ" version="20.8.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-01-30T23:28:11.746Z" agent="5.0 (Macintosh)" etag="uzUlZdIPqZ92kEGcERQI" version="20.8.13" type="github" pages="3">
   <diagram id="TB6GL7cPLUMWL0FS7bqZ" name="CURRENT ARCHITECTURE">
     <mxGraphModel dx="2154" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,16 +82,8 @@
         <mxCell id="f1GSoHphZQmweWk431ef-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="f1GSoHphZQmweWk431ef-1">
           <mxGeometry x="380" y="65" width="460" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="f1GSoHphZQmweWk431ef-3" value="OSISOFT PI DATA HISTORIAN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="f1GSoHphZQmweWk431ef-1">
-          <mxGeometry x="450" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="f1GSoHphZQmweWk431ef-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="f1GSoHphZQmweWk431ef-1">
           <mxGeometry x="522" y="320" width="145" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="f1GSoHphZQmweWk431ef-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f1GSoHphZQmweWk431ef-1" target="f1GSoHphZQmweWk431ef-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="269" y="142" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="f1GSoHphZQmweWk431ef-12" value="ERM DATA FROM SALES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="f1GSoHphZQmweWk431ef-1">
           <mxGeometry x="531.5" y="420" width="126" height="30" as="geometry" />
@@ -104,8 +96,9 @@
         <mxCell id="f1GSoHphZQmweWk431ef-14" value="ON EC2" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.sap_hana;" vertex="1" parent="f1GSoHphZQmweWk431ef-1">
           <mxGeometry x="565" y="350" width="34" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="f1GSoHphZQmweWk431ef-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="f1GSoHphZQmweWk431ef-1" source="f1GSoHphZQmweWk431ef-16" target="f1GSoHphZQmweWk431ef-3">
+        <mxCell id="f1GSoHphZQmweWk431ef-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="f1GSoHphZQmweWk431ef-1" source="f1GSoHphZQmweWk431ef-16">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="85" as="targetPoint" />
             <Array as="points">
               <mxPoint x="412" y="85" />
             </Array>
@@ -141,6 +134,11 @@
         <mxCell id="UUDssZDe1Vt7OplFFXJy-0" value="LOOKOUT FOR EQUIPMENT&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#116D5B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lookout_for_equipment;" vertex="1" parent="f1GSoHphZQmweWk431ef-1">
           <mxGeometry x="126" y="115" width="78" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="c7FYE5Br-3HhAGk-U8k8-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="f1GSoHphZQmweWk431ef-1" source="UUDssZDe1Vt7OplFFXJy-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UUDssZDe1Vt7OplFFXJy-2" value="VISION" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#116D5B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lookout_for_vision;" vertex="1" parent="f1GSoHphZQmweWk431ef-1">
           <mxGeometry x="233.5" y="120" width="78" height="78" as="geometry" />
         </mxCell>
@@ -167,6 +165,12 @@
         </mxCell>
         <mxCell id="hOwG8nA-BRTdDff0IPL_-1" value="Boston Dynamics Spot" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/199_robot_Android_artificial_bot_technology_app_development-128.png" vertex="1" parent="f1GSoHphZQmweWk431ef-1">
           <mxGeometry x="-56" y="138" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="c7FYE5Br-3HhAGk-U8k8-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f1GSoHphZQmweWk431ef-1" source="c7FYE5Br-3HhAGk-U8k8-1" target="FtGVp_4TBEehkbfsiT2t-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c7FYE5Br-3HhAGk-U8k8-1" value="IOT Core" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.iot_core;" vertex="1" parent="f1GSoHphZQmweWk431ef-1">
+          <mxGeometry x="444" y="70" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
