@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T20:18:43.041Z" agent="5.0 (Macintosh)" etag="zp_cboEcmw2jSIDs1yRI" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T20:24:46.872Z" agent="5.0 (Macintosh)" etag="udjcwJT5u7PKtXN_FyRT" version="20.8.17" type="github">
   <diagram name="Page-1" id="fnzVo90Cn4uLEvbQsZGK">
     <mxGraphModel dx="2819" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -93,16 +93,17 @@
         <mxCell id="VmOv-Wi3rlKUdceMmR5n-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VmOv-Wi3rlKUdceMmR5n-57" target="VmOv-Wi3rlKUdceMmR5n-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VmOv-Wi3rlKUdceMmR5n-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.22;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VmOv-Wi3rlKUdceMmR5n-57" target="VmOv-Wi3rlKUdceMmR5n-99">
+        <mxCell id="VmOv-Wi3rlKUdceMmR5n-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.22;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="192" y="380.0588235294117" as="sourcePoint" />
+            <mxPoint x="33" y="377.82000000000016" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="113" y="380" />
-              <mxPoint x="113" y="378" />
+              <mxPoint x="192" y="378" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VmOv-Wi3rlKUdceMmR5n-57" value="Step Functions" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#FF4F8B;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.step_functions;" vertex="1" parent="1">
-          <mxGeometry x="192" y="371" width="78" height="78" as="geometry" />
+          <mxGeometry x="192" y="358" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="VmOv-Wi3rlKUdceMmR5n-77" value="WAF" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.waf;" vertex="1" parent="1">
           <mxGeometry x="-380" y="243.5" width="78" height="78" as="geometry" />
@@ -129,7 +130,12 @@
           <mxGeometry x="188" y="3.5" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="VmOv-Wi3rlKUdceMmR5n-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VmOv-Wi3rlKUdceMmR5n-98" target="VmOv-Wi3rlKUdceMmR5n-99">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-70" y="401" />
+              <mxPoint x="-70" y="401" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VmOv-Wi3rlKUdceMmR5n-98" value="AWS Fargate" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.fargate;" vertex="1" parent="1">
           <mxGeometry x="-160" y="360" width="80" height="100" as="geometry" />
