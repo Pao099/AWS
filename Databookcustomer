@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T20:47:43.418Z" agent="5.0 (Macintosh)" etag="z84BJMcqvHdNJDmW250H" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-18T20:49:21.511Z" agent="5.0 (Macintosh)" etag="N-4W186CYzVpD5SM-h-m" version="20.8.20" type="github" pages="2">
   <diagram name="Page-1" id="fnzVo90Cn4uLEvbQsZGK">
     <mxGraphModel dx="2524" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -341,7 +341,7 @@
         <mxCell id="sQa-wAJVE0qs__E2zI63-10" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQa-wAJVE0qs__E2zI63-6" target="sQa-wAJVE0qs__E2zI63-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sQa-wAJVE0qs__E2zI63-6" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.site_to_site_vpn;" vertex="1" parent="1">
+        <mxCell id="sQa-wAJVE0qs__E2zI63-6" value="Site to site VPN" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.site_to_site_vpn;" vertex="1" parent="1">
           <mxGeometry x="630" y="560" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="sQa-wAJVE0qs__E2zI63-7" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
