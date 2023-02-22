@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T19:49:13.823Z" agent="5.0 (Macintosh)" etag="81GW6jr9-O_8B2uiySl9" version="20.8.22" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-22T19:50:18.311Z" agent="5.0 (Macintosh)" etag="ycJ8G360NZxtT6p1QNJt" version="20.8.22" type="github" pages="2">
   <diagram id="bheKdWdxJDdxxjgBm_PC" name="MaxRTE">
     <mxGraphModel dx="2524" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lHm5pYzWGTwYRZ6rRhx0-2" value="AWS Step Functions workflow" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_step_functions_workflow;strokeColor=#CD2264;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#CD2264;dashed=0;" parent="1" vertex="1">
-          <mxGeometry x="413" y="269" width="127" height="106" as="geometry" />
+          <mxGeometry x="413" y="269" width="87" height="61" as="geometry" />
         </mxCell>
         <mxCell id="lHm5pYzWGTwYRZ6rRhx0-24" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -199,13 +199,14 @@
         <mxCell id="UgWKCmI1h3rVBjiNeXVy-1" value="AWS Key Management Service" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.key_management_service;" parent="dU4BXsjxhqeicer3mjZO-4" vertex="1">
           <mxGeometry x="906" y="478" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="lHm5pYzWGTwYRZ6rRhx0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="dU4BXsjxhqeicer3mjZO-4" edge="1">
+        <mxCell id="lHm5pYzWGTwYRZ6rRhx0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dU4BXsjxhqeicer3mjZO-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="772" y="546" as="targetPoint" />
+            <mxPoint x="772" y="550" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="722" y="545" />
+              <mxPoint x="710" y="550" />
+              <mxPoint x="710" y="550" />
             </Array>
-            <mxPoint x="722" y="545.5" as="sourcePoint" />
+            <mxPoint x="700" y="550" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sQa-wAJVE0qs__E2zI63-6" value="Site to site VPN" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.site_to_site_vpn;" parent="dU4BXsjxhqeicer3mjZO-4" vertex="1">
@@ -267,9 +268,6 @@
         </mxCell>
         <mxCell id="jC9qFEVSS9fCuGW1DAuz-13" value="Users" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.enterprise" vertex="1" parent="1">
           <mxGeometry x="-358" y="580" width="30" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jC9qFEVSS9fCuGW1DAuz-14" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Building_Cluster.svg;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="220" width="121.2" height="111" as="geometry" />
         </mxCell>
         <mxCell id="jC9qFEVSS9fCuGW1DAuz-15" value="Payer Interface" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="150" width="103" height="40" as="geometry" />
