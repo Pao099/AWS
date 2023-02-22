@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T19:57:59.797Z" agent="5.0 (Macintosh)" etag="MWyLAPSDNEEVR040yKE2" version="20.8.22" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-22T19:59:42.354Z" agent="5.0 (Macintosh)" etag="4Q1CcOrrAneSwRFzvy6q" version="20.8.22" type="github" pages="2">
   <diagram id="bheKdWdxJDdxxjgBm_PC" name="MaxRTE">
     <mxGraphModel dx="2524" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,6 +33,14 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="425" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAj6okw91tCMSRcj7K4q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lHm5pYzWGTwYRZ6rRhx0-2" target="sQa-wAJVE0qs__E2zI63-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="340" />
+              <mxPoint x="540" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -184,11 +192,6 @@
         </mxCell>
         <mxCell id="sQa-wAJVE0qs__E2zI63-1" value="AWS Lambda" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" parent="dU4BXsjxhqeicer3mjZO-4" vertex="1">
           <mxGeometry x="724" y="640" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="sQa-wAJVE0qs__E2zI63-4" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dU4BXsjxhqeicer3mjZO-4" target="sQa-wAJVE0qs__E2zI63-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="693" y="690" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="TaXMixEk9pz3yE47F7tu-2" value="AWS CloudFormation" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudformation;" parent="dU4BXsjxhqeicer3mjZO-4" vertex="1">
           <mxGeometry x="170" y="118" width="70" height="100" as="geometry" />
