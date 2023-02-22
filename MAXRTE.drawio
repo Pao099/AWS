@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T20:03:26.233Z" agent="5.0 (Macintosh)" etag="NtJ9wNrpTSSl5k37Wk8K" version="20.8.22" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-22T20:05:22.737Z" agent="5.0 (Macintosh)" etag="4QOH333iFGKzy_E7WKja" version="20.8.22" type="github" pages="2">
   <diagram id="bheKdWdxJDdxxjgBm_PC" name="MaxRTE">
     <mxGraphModel dx="2524" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -248,7 +248,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XAj6okw91tCMSRcj7K4q-10" value="Internet&#xa;gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.internet_gateway;" vertex="1" parent="dU4BXsjxhqeicer3mjZO-4">
-          <mxGeometry x="70" y="490" width="60" height="60" as="geometry" />
+          <mxGeometry x="66" y="490" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cL5m73lOZh0V7bfWZF7K-12" value="CloudTrail" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudtrail;" parent="1" vertex="1">
           <mxGeometry x="497" y="-138" width="66" height="66" as="geometry" />
