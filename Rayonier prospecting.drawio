@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T16:16:46.225Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="IRopUkXW79vZ2YbpadkF" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T16:21:08.299Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="p55tSGJ1EodntqGRIZc-" version="21.6.8" type="github">
   <diagram name="Page-1" id="3hKNQH16sDU-0gm0L-F4">
     <mxGraphModel dx="1422" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -38,8 +38,8 @@
         <mxCell id="sll2KaKlqQ9lJeDoCoRf-5" value="APP ON AMPLIFY" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.amplify;" parent="1" vertex="1">
           <mxGeometry x="550" y="240" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="sll2KaKlqQ9lJeDoCoRf-7" value="NEEDS: JUST PARTNER DEPLOYMENT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="380" width="120" height="70" as="geometry" />
+        <mxCell id="sll2KaKlqQ9lJeDoCoRf-7" value="USING LIDAR DATA TO IMPROVE CARBON FOOTPRINT FOR A REAL ESTATE PROSPECTING COMPANY" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" width="490" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sll2KaKlqQ9lJeDoCoRf-12" value="DRIVEN BY: Instant prediction, money, " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="248" width="120" height="70" as="geometry" />
@@ -52,6 +52,9 @@
         </mxCell>
         <mxCell id="sll2KaKlqQ9lJeDoCoRf-15" value="REPLACE CITRIX AND EC2 SPEND" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="490" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s8nZN4GmcJ-J-yLGvwKA-2" value="NEEDS: JUST PARTNER DEPLOYMENT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="390" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
