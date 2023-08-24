@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T01:02:52.398Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="ikXjNQUPqgLgQkP-inBt" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T01:04:17.010Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="TYV5-ZPlMxDD44a7OH4j" version="21.6.9" type="github">
   <diagram name="Page-1" id="3hKNQH16sDU-0gm0L-F4">
     <mxGraphModel dx="1422" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
         <mxCell id="sll2KaKlqQ9lJeDoCoRf-4" value="SAGEMAKER" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#116D5B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sagemaker;" parent="1" vertex="1">
           <mxGeometry x="430" y="100" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="sll2KaKlqQ9lJeDoCoRf-5" value="Embed in Mobile/Web App" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.amplify;" parent="1" vertex="1">
+        <mxCell id="sll2KaKlqQ9lJeDoCoRf-5" value="Web/ Mobile App" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.amplify;" parent="1" vertex="1">
           <mxGeometry x="713" y="100" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="sll2KaKlqQ9lJeDoCoRf-14" value="Amazon AppStream 2.0" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.appstream_20;" parent="1" vertex="1">
@@ -73,6 +73,9 @@
         </mxCell>
         <mxCell id="GoPTcIEP5sC7jVwRkHzK-17" value="CARBON SEQUESTRATION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="200" width="101.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GoPTcIEP5sC7jVwRkHzK-18" value="Display Carbon Sequestration, Monetization Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="692" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
