@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T01:04:17.010Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="TYV5-ZPlMxDD44a7OH4j" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T01:06:07.067Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="E_91kgHQnz1a7skUyzqu" version="21.6.9" type="github">
   <diagram name="Page-1" id="3hKNQH16sDU-0gm0L-F4">
     <mxGraphModel dx="1422" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,10 +46,10 @@
           <mxGeometry x="713" y="100" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="sll2KaKlqQ9lJeDoCoRf-14" value="Amazon AppStream 2.0" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.appstream_20;" parent="1" vertex="1">
-          <mxGeometry x="140" y="480" width="80" height="110" as="geometry" />
+          <mxGeometry x="123" y="348" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="sll2KaKlqQ9lJeDoCoRf-15" value="REPLACE CITRIX AND EC2 SPEND" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="490" width="120" height="70" as="geometry" />
+          <mxGeometry x="203" y="358" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GoPTcIEP5sC7jVwRkHzK-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GoPTcIEP5sC7jVwRkHzK-1" target="sll2KaKlqQ9lJeDoCoRf-2">
           <mxGeometry relative="1" as="geometry" />
