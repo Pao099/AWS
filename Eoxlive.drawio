@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T18:10:11.793Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="wHaJmON804MqR1D5fcdJ" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T18:12:53.121Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="J53Yty_EHoWFS0xEgMEc" version="23.1.2" type="github">
   <diagram name="Page-1" id="vbcIbxCuB1PoPxorpxca">
     <mxGraphModel dx="2284" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -74,6 +74,9 @@
         </mxCell>
         <mxCell id="Zn9wi0Xc4JewI4kYj6-b-26" value="Matching Results for trade" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="-210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zn9wi0Xc4JewI4kYj6-b-29" value="Amazon Cloudfront" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudfront;" vertex="1" parent="1">
+          <mxGeometry x="212" y="-190" width="48" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
