@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T17:36:10.714Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" version="23.1.2" etag="RqEgOdhfRjD2-Nv6dtfC" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T17:49:31.989Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="ighC6TdEH6ajOzUhOCs1" version="23.1.2" type="github">
   <diagram name="Page-1" id="vbcIbxCuB1PoPxorpxca">
-    <mxGraphModel>
+    <mxGraphModel dx="2284" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Zn9wi0Xc4JewI4kYj6-b-1" value="RDS" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="200" width="72" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="Zn9wi0Xc4JewI4kYj6-b-2" value="Matching engine" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ec2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Zn9wi0Xc4JewI4kYj6-b-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="353" y="200" width="72" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="Zn9wi0Xc4JewI4kYj6-b-4" value="On-Premise" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#AAB7B8;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="90" width="110" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
