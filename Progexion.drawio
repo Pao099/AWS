@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T21:29:26.149Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" version="23.1.2" etag="6ZgzYUkiBOsJHwD_ToFd" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T21:55:03.824Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="MJMAXD7CTTKjqwn_yoLN" version="23.1.2" type="github">
   <diagram name="Page-1" id="igm-xTlKHYJiB2UXf1PZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IS6DVIYhrCRW7QBuljSE-1" value="Amazon EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ec2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IS6DVIYhrCRW7QBuljSE-2" value="Amazon EKS on EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.eks;" vertex="1" parent="1">
+          <mxGeometry x="370" y="110" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IS6DVIYhrCRW7QBuljSE-3" value="On-Premise- Legacy " style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="100" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IS6DVIYhrCRW7QBuljSE-4" value="Modernize Servers-?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IS6DVIYhrCRW7QBuljSE-5" value="&lt;div&gt;Business- telesales to digital sales&lt;/div&gt;&lt;div&gt;productize APis, B2B, wanted Mulesoft API moved away from that due to change in , appetite for AIML, ML, GenAI , data allover:&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IS6DVIYhrCRW7QBuljSE-6" value="S3 Data Lake, Athena, SageMaker, Bedrock, " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IS6DVIYhrCRW7QBuljSE-7" value="&lt;div&gt;1.telesales workflows- marketing lead data/CRM Php&lt;/div&gt;&lt;div&gt;2.dotnet finance and payment processing and financial reporting GreatPlains&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.java and desktop app CRM&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IS6DVIYhrCRW7QBuljSE-8" value="Working with everflow/ eversales " style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IS6DVIYhrCRW7QBuljSE-9" value="API Gateway, lambda" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IS6DVIYhrCRW7QBuljSE-10" value="Salesforce CRM marketplace" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IS6DVIYhrCRW7QBuljSE-11" value="Pinpoint, Connect, " style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
