@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T18:08:08.532Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="BfW4zJcsAAFFUZzcewoW" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T18:08:31.188Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="IGi74uZiQ1cHn0wjN6Oi" version="23.1.2" type="github">
   <diagram name="Page-1" id="vbcIbxCuB1PoPxorpxca">
     <mxGraphModel dx="2284" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zn9wi0Xc4JewI4kYj6-b-17" value="&lt;div&gt;From : https://www.eoxlive.com/eoxlive/platform-architecture/ &lt;br&gt;&lt;/div&gt;&lt;div&gt;NASDAQ, CME, Clearpoint Market Data&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zn9wi0Xc4JewI4kYj6-b-17" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;NASDAQ, CME, Clearpoint Market Data&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="-280" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zn9wi0Xc4JewI4kYj6-b-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zn9wi0Xc4JewI4kYj6-b-2" target="Zn9wi0Xc4JewI4kYj6-b-1">
@@ -62,6 +62,9 @@
         </mxCell>
         <mxCell id="Zn9wi0Xc4JewI4kYj6-b-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zn9wi0Xc4JewI4kYj6-b-11" target="Zn9wi0Xc4JewI4kYj6-b-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zn9wi0Xc4JewI4kYj6-b-25" value="From : https://www.eoxlive.com/eoxlive/platform-architecture/ " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-375" y="-332" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
