@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T01:43:44.680Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="EhL8MH2Vi_buvcyT-mSX" version="23.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-13T01:54:56.354Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="5PoPusjL9mpdzLi3TpIV" version="23.1.3" type="github">
   <diagram name="Page-1" id="igm-xTlKHYJiB2UXf1PZ">
     <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="IS6DVIYhrCRW7QBuljSE-2" value="Amazon EKS on EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.eks;" parent="1" vertex="1">
           <mxGeometry x="370" y="110" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="IS6DVIYhrCRW7QBuljSE-3" value="On-Premise- Legacy " style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" parent="1" vertex="1">
+        <mxCell id="IS6DVIYhrCRW7QBuljSE-3" value="&lt;div&gt;On-Premise- Legacy&lt;/div&gt;&lt;div&gt;Leads Come in, are contacted, billing via custom app, all on Java CRM&lt;br&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="100" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="IS6DVIYhrCRW7QBuljSE-4" value="Modernize Servers-?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -25,7 +25,7 @@
         <mxCell id="IS6DVIYhrCRW7QBuljSE-7" value="&lt;div&gt;1.telesales workflows- marketing lead data/CRM Php&lt;/div&gt;&lt;div&gt;2.dotnet finance and payment processing and financial reporting GreatPlains&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.java and desktop app CRM&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="350" width="180" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="IS6DVIYhrCRW7QBuljSE-8" value="Working with everflow/ eversales " style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IS6DVIYhrCRW7QBuljSE-8" value="Working with everflow.io as partner " style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IS6DVIYhrCRW7QBuljSE-9" value="API Gateway, lambda" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
