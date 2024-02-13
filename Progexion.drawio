@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T17:36:44.270Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="SG2jD84XNkvvXrstVJep" version="23.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-13T17:39:33.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="6avezhpLQpcMuC6DF-Qr" version="23.1.3" type="github">
   <diagram name="Page-1" id="igm-xTlKHYJiB2UXf1PZ">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,23 +19,14 @@
         <mxCell id="IS6DVIYhrCRW7QBuljSE-5" value="&lt;div&gt;Business- telesales to digital sales&lt;/div&gt;&lt;div&gt;productize APis, B2B, wanted Mulesoft API moved away from that due to change in , appetite for AIML, ML, GenAI , data allover:&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IS6DVIYhrCRW7QBuljSE-6" value="S3 Data Lake, Athena, SageMaker, Bedrock, " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="IS6DVIYhrCRW7QBuljSE-7" value="&lt;div&gt;1.telesales workflows- marketing lead data/CRM Php&lt;/div&gt;&lt;div&gt;2.dotnet finance and payment processing and financial reporting GreatPlains&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.java and desktop app CRM&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="350" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="IS6DVIYhrCRW7QBuljSE-8" value="Working with everflow.io as partner " style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IS6DVIYhrCRW7QBuljSE-9" value="API Gateway, AppFlow" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="IS6DVIYhrCRW7QBuljSE-10" value="Salesforce CRM marketplace" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IS6DVIYhrCRW7QBuljSE-11" value="Pinpoint, Connect, " style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZnKZwp2DaF4M9x0P8iEY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZnKZwp2DaF4M9x0P8iEY-1" target="ZnKZwp2DaF4M9x0P8iEY-7">
           <mxGeometry relative="1" as="geometry" />
@@ -109,6 +100,9 @@
         </mxCell>
         <mxCell id="ZnKZwp2DaF4M9x0P8iEY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZnKZwp2DaF4M9x0P8iEY-18" target="ZnKZwp2DaF4M9x0P8iEY-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZnKZwp2DaF4M9x0P8iEY-22" value="Pinpoint and Connect: https://aws.amazon.com/blogs/messaging-and-targeting/creating-a-seamless-handoff-between-amazon-pinpoint-and-amazon-connect/" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="740" width="550" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
