@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-02T14:56:29.059Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="rZ2I2LMN0SUgCKlIOytb" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-02T14:56:39.314Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="bScTkX4syFP8Ii7XwNQR" version="24.0.0" type="github">
   <diagram name="Page-1" id="oiOR5DFxFL_I0Y_yu_aG">
     <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="290" y="320" width="350" height="150" as="geometry" />
         </mxCell>
         <mxCell id="j7-mjfQlk6cvLGT77Xdr-1" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="130" width="80" height="50" as="geometry" />
+          <mxGeometry x="260" y="700" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j7-mjfQlk6cvLGT77Xdr-2" value="CDN and WAF" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.fastly;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="j7-mjfQlk6cvLGT77Xdr-1">
           <mxGeometry width="45" height="17.55" relative="1" as="geometry">
