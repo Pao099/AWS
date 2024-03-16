@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T19:16:28.934Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="z1Mu8uC5mQAJiSMhL8rN" version="24.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-16T19:17:21.162Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="HW-bH1niNt9jzCepRZI7" version="24.0.6" type="github" pages="3">
   <diagram name="Page-1" id="vbcIbxCuB1PoPxorpxca">
     <mxGraphModel dx="2284" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -133,6 +133,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yACrHko6Bym49-niOyKf-29" value="&lt;span style=&quot;background-color: rgb(0, 255, 0);&quot;&gt;Availability Zone&lt;/span&gt;" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="859" y="160" width="271" height="530" as="geometry" />
+        </mxCell>
         <mxCell id="hnN9ZuaR6-EVa9PMzoCF-1" value="Region" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="20" width="700" height="710" as="geometry" />
         </mxCell>
@@ -221,9 +224,6 @@
         </mxCell>
         <mxCell id="yACrHko6Bym49-niOyKf-28" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="155" width="280" height="530" as="geometry" />
-        </mxCell>
-        <mxCell id="yACrHko6Bym49-niOyKf-29" value="&lt;span style=&quot;background-color: rgb(0, 255, 0);&quot;&gt;Availability Zone&lt;/span&gt;" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="859" y="160" width="271" height="530" as="geometry" />
         </mxCell>
         <mxCell id="yACrHko6Bym49-niOyKf-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="yACrHko6Bym49-niOyKf-31" target="yACrHko6Bym49-niOyKf-34" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -336,6 +336,9 @@
         </mxCell>
         <mxCell id="hnN9ZuaR6-EVa9PMzoCF-3" value="IaC for cross region deployment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hnN9ZuaR6-EVa9PMzoCF-4" value="&lt;span style=&quot;background-color: rgb(0, 255, 0);&quot;&gt;Sticky sessions&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="270" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
