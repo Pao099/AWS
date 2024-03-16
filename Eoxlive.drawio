@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T19:12:25.198Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="dGgNb4ETL2siJPmGhS29" version="24.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-16T19:12:59.255Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="GY5MCCs3PhihOnGJdrXm" version="24.0.6" type="github" pages="3">
   <diagram name="Page-1" id="vbcIbxCuB1PoPxorpxca">
     <mxGraphModel dx="2284" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -308,6 +308,17 @@
         </mxCell>
         <mxCell id="yACrHko6Bym49-niOyKf-55" value="&lt;span style=&quot;background-color: rgb(0, 255, 0);&quot;&gt;AWS WAF&lt;/span&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.waf;" vertex="1" parent="1">
           <mxGeometry x="880" y="260" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yACrHko6Bym49-niOyKf-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yACrHko6Bym49-niOyKf-57" target="yACrHko6Bym49-niOyKf-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="60" />
+              <mxPoint x="910" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yACrHko6Bym49-niOyKf-57" value="&lt;span style=&quot;background-color: rgb(0, 255, 0);&quot;&gt;AWS WAF&lt;/span&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.waf;" vertex="1" parent="1">
+          <mxGeometry x="920" y="24" width="50" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
