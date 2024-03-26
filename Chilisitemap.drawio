@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T16:53:43.784Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="QpVg0K2Z5KpbMJ3s-TIU" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T16:56:23.553Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="1Ci6A9t-5M_hO24GsGlM" version="24.2.0" type="github">
   <diagram name="Page-1" id="PSdes31Rnnlw_tgahbyj">
     <mxGraphModel dx="1280" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0PAF0eVwtVLL-mnTtXqf-1" value="https://chilis.com/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="130" width="110" height="30" as="geometry" />
+        <mxCell id="0PAF0eVwtVLL-mnTtXqf-1" value="&amp;nbsp;https://chilis.com/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277" y="127.75" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0PAF0eVwtVLL-mnTtXqf-2" value="/login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="200" width="60" height="20" as="geometry" />
@@ -20,10 +20,16 @@
           <mxGeometry x="240" y="200" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0PAF0eVwtVLL-mnTtXqf-6" value="/rewards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="200" width="50" height="30" as="geometry" />
+          <mxGeometry x="170" y="200" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0PAF0eVwtVLL-mnTtXqf-7" value="/menu&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="200" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0PAF0eVwtVLL-mnTtXqf-8" value="/menu&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0PAF0eVwtVLL-mnTtXqf-9" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.home;" vertex="1" parent="1">
+          <mxGeometry x="253" y="130" width="24" height="25.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
