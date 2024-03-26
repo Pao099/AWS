@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T17:55:28.388Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="hI7puzXlJc_N-NRZnzUc" version="24.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-26T17:55:38.910Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="sDXbTXcAneF3l4AEsz-t" version="24.2.0" type="github" pages="2">
   <diagram name="Chili&#39;s" id="PSdes31Rnnlw_tgahbyj">
     <mxGraphModel dx="1280" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -121,12 +121,6 @@
         </mxCell>
         <mxCell id="0PAF0eVwtVLL-mnTtXqf-40" value="/login" style="whiteSpace=wrap;html=1;strokeColor=#00f900;fillColor=#00f900;" vertex="1" parent="1">
           <mxGeometry x="478.5" y="248" width="63" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0PAF0eVwtVLL-mnTtXqf-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="490" as="sourcePoint" />
-            <mxPoint x="470" y="490" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="0PAF0eVwtVLL-mnTtXqf-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
