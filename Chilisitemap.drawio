@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T17:27:26.297Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="tTeSXBqQ2-VT7YMT2vo2" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T17:37:16.353Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="MtvY2o-l48hynAkCAxtW" version="24.2.0" type="github">
   <diagram name="Page-1" id="PSdes31Rnnlw_tgahbyj">
     <mxGraphModel dx="1280" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="0PAF0eVwtVLL-mnTtXqf-3" value="/merch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="398" y="200" width="55" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0PAF0eVwtVLL-mnTtXqf-4" value="/giftcards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0PAF0eVwtVLL-mnTtXqf-4" value="/gift-cards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0PAF0eVwtVLL-mnTtXqf-5" value="/locations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -75,6 +75,27 @@
         </mxCell>
         <mxCell id="0PAF0eVwtVLL-mnTtXqf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.633;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0PAF0eVwtVLL-mnTtXqf-1" target="0PAF0eVwtVLL-mnTtXqf-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0PAF0eVwtVLL-mnTtXqf-31" value="/register" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163.5" y="240" width="63" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0PAF0eVwtVLL-mnTtXqf-32" value="/login" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="280" width="63" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0PAF0eVwtVLL-mnTtXqf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0PAF0eVwtVLL-mnTtXqf-32" target="0PAF0eVwtVLL-mnTtXqf-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0PAF0eVwtVLL-mnTtXqf-35" value="/purchase physical-cards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0PAF0eVwtVLL-mnTtXqf-36" value="/purchase-e-gift-cards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0PAF0eVwtVLL-mnTtXqf-37" value="/bulk-gift-cards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0PAF0eVwtVLL-mnTtXqf-38" value="/check-balance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="390" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
