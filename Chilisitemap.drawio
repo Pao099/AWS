@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T18:13:50.989Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="eCXzlb6UF3boZm_v_281" version="24.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-26T18:15:14.578Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="4y0mKtDo_971yjyF315-" version="24.2.0" type="github" pages="2">
   <diagram name="McDonald&#39;s" id="PSdes31Rnnlw_tgahbyj">
     <mxGraphModel dx="2130" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,16 +34,8 @@
         <mxCell id="0PAF0eVwtVLL-mnTtXqf-3" value="/exclusive-deals" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#aa7941;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="62" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0PAF0eVwtVLL-mnTtXqf-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="0PAF0eVwtVLL-mnTtXqf-4" target="0PAF0eVwtVLL-mnTtXqf-38">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="334" y="210" />
-              <mxPoint x="334" y="423" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0PAF0eVwtVLL-mnTtXqf-4" value="/rewards" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fefb00;" vertex="1" parent="1">
-          <mxGeometry x="354" y="210" width="60" height="20" as="geometry" />
+        <mxCell id="0PAF0eVwtVLL-mnTtXqf-4" value="/locate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fefb00;" vertex="1" parent="1">
+          <mxGeometry x="287" y="210" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0PAF0eVwtVLL-mnTtXqf-5" value="/download-app" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FFFF;" vertex="1" parent="1">
           <mxGeometry x="189" y="195" width="80" height="30" as="geometry" />
@@ -97,18 +89,6 @@
             <mxPoint x="155.5" y="300" as="sourcePoint" />
             <mxPoint x="155.5" y="300" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="0PAF0eVwtVLL-mnTtXqf-35" value="/purchase physical-cards" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fefb00;" vertex="1" parent="1">
-          <mxGeometry x="344" y="250" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0PAF0eVwtVLL-mnTtXqf-36" value="/purchase-e-gift-cards" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fefb00;" vertex="1" parent="1">
-          <mxGeometry x="344" y="300" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0PAF0eVwtVLL-mnTtXqf-37" value="/bulk-gift-cards" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fefb00;" vertex="1" parent="1">
-          <mxGeometry x="349" y="350" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0PAF0eVwtVLL-mnTtXqf-38" value="/check-balance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fefb00;" vertex="1" parent="1">
-          <mxGeometry x="344" y="400" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0PAF0eVwtVLL-mnTtXqf-39" value="/what&#39;sinyourfood" style="whiteSpace=wrap;html=1;strokeColor=#00f900;fillColor=#00f900;" vertex="1" parent="1">
           <mxGeometry x="537" y="290" width="83" height="30" as="geometry" />
