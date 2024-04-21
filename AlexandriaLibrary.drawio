@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T03:09:04.760Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="x1iYelya7l2dKdTWHBC9" version="24.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-21T03:10:57.644Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="XkZIXIybm_rc1292zuak" version="24.2.7" type="github" pages="5">
   <diagram name="Alexandria Library Home Wireframe" id="jLP-PbIElW-eHgMsclkM">
     <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -596,6 +596,9 @@
         </mxCell>
         <mxCell id="b_QGz_EWhkoW1U9j2-si-8" value="&lt;div&gt;&lt;b&gt;THINKS&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;1. I hope the reservation process is simple.&lt;/div&gt;&lt;div&gt;2. I hope the search button is functional&lt;/div&gt;&lt;div&gt;3. I hope the search is relevant&lt;/div&gt;&lt;div&gt;4. Is this book appropriate for my class&#39;s age group?&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="b_QGz_EWhkoW1U9j2-si-9" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="270" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
