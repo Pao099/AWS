@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T02:10:30.874Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="hfB_dgpE2on2i-ULVcAL" version="24.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-21T02:11:23.302Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="GDI98JrE-qss_KjtCeCo" version="24.2.7" type="github" pages="2">
   <diagram name="Alexandria Library Home Wireframe" id="jLP-PbIElW-eHgMsclkM">
     <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -188,23 +188,17 @@
         <mxCell id="EW59_ZGjiHjIkPcpcX34-73" value="/events" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="42" y="250" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EW59_ZGjiHjIkPcpcX34-74" value="/digital-collection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EW59_ZGjiHjIkPcpcX34-74" value="/locations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="373" y="250" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EW59_ZGjiHjIkPcpcX34-80" value="/recommended" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EW59_ZGjiHjIkPcpcX34-80" value="/about-us" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="489" y="250" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EW59_ZGjiHjIkPcpcX34-81" value="/guides" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EW59_ZGjiHjIkPcpcX34-81" value="/support" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="599" y="250" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EW59_ZGjiHjIkPcpcX34-82" value="/reading-list" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EW59_ZGjiHjIkPcpcX34-82" value="/contact-us" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="669" y="250" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="EW59_ZGjiHjIkPcpcX34-83" value="/new-items" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="250" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="EW59_ZGjiHjIkPcpcX34-84" value="/digital-collection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="756" y="250" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EW59_ZGjiHjIkPcpcX34-89" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
