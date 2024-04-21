@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T00:00:46.256Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="sCkRwVZfAWvEsP_oUPBI" version="24.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-21T01:48:37.081Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="Rjly8duRvcJt9WC4P_AI" version="24.2.7" type="github" pages="2">
   <diagram name="Alexandria Library Home Wireframe" id="jLP-PbIElW-eHgMsclkM">
     <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -122,11 +122,6 @@
         </mxCell>
         <mxCell id="EW59_ZGjiHjIkPcpcX34-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EW59_ZGjiHjIkPcpcX34-6" target="EW59_ZGjiHjIkPcpcX34-14">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EW59_ZGjiHjIkPcpcX34-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EW59_ZGjiHjIkPcpcX34-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="200" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="EW59_ZGjiHjIkPcpcX34-6" value="https://alexlibraryva.org/" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006633;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="277" y="125.5" width="110" height="30" as="geometry" />
