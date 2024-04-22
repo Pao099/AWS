@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T23:03:33.694Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="8MJgYi7ymHBAi28DCZga" version="24.2.7" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2024-04-22T23:10:51.001Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="u0c7njJ0Rc__wE2OG3Yh" version="24.2.7" type="github" pages="15">
   <diagram name="Alexandria Library Home Wireframe" id="jLP-PbIElW-eHgMsclkM">
     <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -613,7 +613,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of 2.copy" id="MsDkeNfGNz-Gx6G0Zly9">
-    <mxGraphModel dx="954" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1908" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="rzDucSxPlzXfkEJhlDNg-0" />
         <mxCell id="rzDucSxPlzXfkEJhlDNg-1" parent="rzDucSxPlzXfkEJhlDNg-0" />
@@ -667,6 +667,12 @@
         </mxCell>
         <mxCell id="rzDucSxPlzXfkEJhlDNg-18" value="RESERVE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rzDucSxPlzXfkEJhlDNg-1">
           <mxGeometry x="590" y="240" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A2DCMGNmEiJk6beFzw3K-0" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.notification_topic;" vertex="1" parent="rzDucSxPlzXfkEJhlDNg-1">
+          <mxGeometry x="625" y="320" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A2DCMGNmEiJk6beFzw3K-1" value="RESERVED!" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="rzDucSxPlzXfkEJhlDNg-1">
+          <mxGeometry x="615" y="318" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
