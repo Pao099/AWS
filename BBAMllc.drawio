@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T21:25:50.805Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="K9XDskKRh_EGqKU8m3XX" version="24.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-24T21:26:15.377Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="KhEW52uJxN-UAizZNsr-" version="24.2.8" type="github" pages="2">
   <diagram name="Page-1" id="AjR_YOgLi4-nSvDeCxip">
     <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,6 +64,11 @@
               <mxPoint x="370" y="490" />
               <mxPoint x="490" y="490" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWbSWyjcAT3H-ya4Pqt--0" value="&lt;div&gt;Leasepoint&lt;/div&gt;&lt;div&gt;Connector?&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b_-XC8jKm8eBEqO1eR3b-6">
+          <mxGeometry x="-0.8766" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZiMGq-Zd-_PKAjgb11LP-3" value="Amazon Elastic Block Store" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.elastic_block_store;" vertex="1" parent="ZiMGq-Zd-_PKAjgb11LP-1">
