@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T21:26:15.377Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="KhEW52uJxN-UAizZNsr-" version="24.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-24T21:32:19.005Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="XDHn63W5wO8Q4DqVmG3G" version="24.2.8" type="github" pages="2">
   <diagram name="Page-1" id="AjR_YOgLi4-nSvDeCxip">
     <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
           <mxGeometry x="160" y="328" width="170" height="162" as="geometry" />
         </mxCell>
         <mxCell id="b_-XC8jKm8eBEqO1eR3b-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZiMGq-Zd-_PKAjgb11LP-1">
-          <mxGeometry x="710" y="373" width="120" height="307" as="geometry" />
+          <mxGeometry x="710" y="373" width="120" height="397" as="geometry" />
         </mxCell>
         <mxCell id="ZiMGq-Zd-_PKAjgb11LP-2" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ec2;" vertex="1" parent="ZiMGq-Zd-_PKAjgb11LP-1">
           <mxGeometry x="250" y="140" width="78" height="78" as="geometry" />
@@ -156,6 +156,12 @@
         </mxCell>
         <mxCell id="eDZXoMLbjU4jJZV1CRsH-6" value="WorkSpaces" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.workspaces;fillColor=#D16A28;gradientColor=#F58435;gradientDirection=north;" vertex="1" parent="ZiMGq-Zd-_PKAjgb11LP-1">
           <mxGeometry x="60" y="131.75" width="82.5" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PWbSWyjcAT3H-ya4Pqt--2" value="Amazon Redshift" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.redshift;" vertex="1" parent="ZiMGq-Zd-_PKAjgb11LP-1">
+          <mxGeometry x="719" y="670" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PWbSWyjcAT3H-ya4Pqt--3" value="Data Lake benefits:&lt;br&gt;&lt;div&gt;1.pdf ingestion&lt;/div&gt;&lt;div&gt;2. etl&lt;/div&gt;&lt;div&gt;3. Big data thinking big&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ZiMGq-Zd-_PKAjgb11LP-1">
+          <mxGeometry x="30" y="498" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
