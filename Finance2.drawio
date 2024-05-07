@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T19:34:44.859Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.0" etag="VpXpSOQGwKyxxbK2fMNV" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T19:48:18.914Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="eoLS_UERrwErCCIOSx3V" version="24.3.0" type="github">
   <diagram name="Page-1" id="ZeoZ0WHfsodcyNxrAfag">
-    <mxGraphModel>
+    <mxGraphModel dx="899" dy="1666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gUTC3p-jZjWf_sy_iYI1-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.update" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="48" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gUTC3p-jZjWf_sy_iYI1-3" value="Patch Manager" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5369" y="298" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gUTC3p-jZjWf_sy_iYI1-5" value="Public subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#7AA116;fillColor=#F2F6E8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="5068" y="70" width="342" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="gUTC3p-jZjWf_sy_iYI1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gUTC3p-jZjWf_sy_iYI1-5" source="gUTC3p-jZjWf_sy_iYI1-4" target="gUTC3p-jZjWf_sy_iYI1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gUTC3p-jZjWf_sy_iYI1-4" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ec2;" vertex="1" parent="gUTC3p-jZjWf_sy_iYI1-5">
+          <mxGeometry x="102" y="70" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="gUTC3p-jZjWf_sy_iYI1-7" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.volume;fillColor=#E05243;gradientColor=none;" vertex="1" parent="gUTC3p-jZjWf_sy_iYI1-5">
+          <mxGeometry x="114.75" y="200" width="52.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="gUTC3p-jZjWf_sy_iYI1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gUTC3p-jZjWf_sy_iYI1-8" target="gUTC3p-jZjWf_sy_iYI1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gUTC3p-jZjWf_sy_iYI1-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/woothemes/PNG/intruder.png" vertex="1" parent="1">
+          <mxGeometry x="5164" y="-50" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gUTC3p-jZjWf_sy_iYI1-11" value="Expired SSL certificate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5120" y="98" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gUTC3p-jZjWf_sy_iYI1-12" value="User Credentials" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5065" y="158" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gUTC3p-jZjWf_sy_iYI1-13" value="Persistence" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5085" y="188" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gUTC3p-jZjWf_sy_iYI1-14" value="User Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5100" y="278" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gUTC3p-jZjWf_sy_iYI1-15" value="Unpatched Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5070" y="128" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
