@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T16:07:09.333Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="-DgR2osBKzOYg-Y16I7d" version="24.3.0" type="github" pages="3">
-  <diagram name="Page-1" id="ZeoZ0WHfsodcyNxrAfag">
+<mxfile host="app.diagrams.net" modified="2024-05-08T16:10:18.132Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="NnPr2qymvBOzAHcYhVH-" version="24.3.0" type="github" pages="3">
+  <diagram name="Attack" id="ZeoZ0WHfsodcyNxrAfag">
     <mxGraphModel dx="-3296" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -40,7 +40,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="PSVWc9Ohz6YlZw6CIQyH" name="Page-2">
+  <diagram id="PSVWc9Ohz6YlZw6CIQyH" name="Remediation">
     <mxGraphModel dx="954" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -102,7 +102,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of Page-2" id="nu2eetl9k-jE_KTyOvL-">
+  <diagram name="Final" id="nu2eetl9k-jE_KTyOvL-">
     <mxGraphModel dx="954" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="rNrNsXkIHkJ5454EtuJx-0" />
@@ -163,6 +163,21 @@
         </mxCell>
         <mxCell id="rNrNsXkIHkJ5454EtuJx-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.delltechnologies.com/uploads/2019/02/Strengthen-Security-with-NIST-Cybersecurity-Framework-fig2.jpg;" vertex="1" parent="rNrNsXkIHkJ5454EtuJx-1">
           <mxGeometry x="640" y="50" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="BfBGWTwIpBepBI2N-5Oq-0" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.security_hub;" vertex="1" parent="rNrNsXkIHkJ5454EtuJx-1">
+          <mxGeometry x="772" y="210" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BfBGWTwIpBepBI2N-5Oq-1" value="AWS Config" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.config;" vertex="1" parent="rNrNsXkIHkJ5454EtuJx-1">
+          <mxGeometry x="650" y="220" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BfBGWTwIpBepBI2N-5Oq-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.kms;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="rNrNsXkIHkJ5454EtuJx-1">
+          <mxGeometry x="710" y="215" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BfBGWTwIpBepBI2N-5Oq-3" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.backup_vault;" vertex="1" parent="rNrNsXkIHkJ5454EtuJx-1">
+          <mxGeometry x="910" y="215" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BfBGWTwIpBepBI2N-5Oq-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.archive;" vertex="1" parent="rNrNsXkIHkJ5454EtuJx-1">
+          <mxGeometry x="909.62" y="265" width="40.38" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
