@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T16:10:18.132Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="NnPr2qymvBOzAHcYhVH-" version="24.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-08T16:14:55.067Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" etag="yOAwYFDAF_JIb1buT343" version="24.3.0" type="github" pages="3">
   <diagram name="Attack" id="ZeoZ0WHfsodcyNxrAfag">
     <mxGraphModel dx="-3296" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -178,6 +178,9 @@
         </mxCell>
         <mxCell id="BfBGWTwIpBepBI2N-5Oq-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.archive;" vertex="1" parent="rNrNsXkIHkJ5454EtuJx-1">
           <mxGeometry x="909.62" y="265" width="40.38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BfBGWTwIpBepBI2N-5Oq-6" value="Amazon GuardDuty" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.guardduty;" vertex="1" parent="rNrNsXkIHkJ5454EtuJx-1">
+          <mxGeometry x="773" y="263" width="47.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
