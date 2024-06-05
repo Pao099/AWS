@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T22:49:04.169Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="CkM7Ijl4CREvPWZq6mLC" version="24.4.14" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-05T22:58:30.983Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="tes9EJlvlnRde35apjrF" version="24.4.14" type="github" pages="3">
   <diagram name="Page-1" id="_ECiRJfvtbdO4geLtWmk">
     <mxGraphModel dx="954" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -325,6 +325,9 @@
         </mxCell>
         <mxCell id="bKyLgZDNdOfRyixPduP--36" value="&lt;b&gt;RPO: 15 minutes, RTO: 4 hours&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="8" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKyLgZDNdOfRyixPduP--38" value="&lt;div&gt;https://aws.amazon.com/blogs/security/how-to-configure-your-ec2-instances-to-automatically-join-a-microsoft-active-directory-domain/&lt;/div&gt;&lt;div&gt;https://surbhinijhara.medium.com/how-to-join-and-unjoin-aws-ec2-in-asg-with-aws-directory-service-47c5e3310b0e&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="620" width="800" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
