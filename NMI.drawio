@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T22:58:30.983Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="tes9EJlvlnRde35apjrF" version="24.4.14" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-05T22:59:31.295Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="td7HYiwGx89W0nLnpTnd" version="24.4.14" type="github" pages="3">
   <diagram name="Page-1" id="_ECiRJfvtbdO4geLtWmk">
     <mxGraphModel dx="954" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -320,7 +320,7 @@
         <mxCell id="bKyLgZDNdOfRyixPduP--32" value="Region" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="180" width="270" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="bKyLgZDNdOfRyixPduP--34" value="Recommendations: Multi AZ RDS, " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bKyLgZDNdOfRyixPduP--34" value="Recommendations: Multi AZ RDS, CR snapshots" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="40" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bKyLgZDNdOfRyixPduP--36" value="&lt;b&gt;RPO: 15 minutes, RTO: 4 hours&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
