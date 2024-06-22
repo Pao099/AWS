@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T19:21:49.045Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="OpgSXqDINsReTV1Pfjp6" version="24.6.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-22T19:22:09.028Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="_6Iq3C8PSZH0n7f80Z_x" version="24.6.2" type="github" pages="5">
   <diagram name="Architecture Diagram" id="JZH0-FLLyCloRmju1dn3">
     <mxGraphModel dx="934" dy="1718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -251,6 +251,9 @@
         </mxCell>
         <mxCell id="bYnkAuTAWSsS0UE6x7nm-5" value="Scramble" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bYnkAuTAWSsS0UE6x7nm-6" value="Welcome, Jeffrey!" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="220" y="70" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
