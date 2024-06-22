@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T19:22:23.941Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="ej6OiE3ALf6ngRDRQcMT" version="24.6.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-22T19:41:06.570Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="iz8wj0G2WKCne0fP-1up" version="24.6.2" type="github" pages="5">
   <diagram name="Architecture Diagram" id="JZH0-FLLyCloRmju1dn3">
     <mxGraphModel dx="934" dy="1718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -232,7 +232,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="J03BTioiKBqVJGi235T6" name="User Interface">
+  <diagram id="J03BTioiKBqVJGi235T6" name="Wireframe of User Interface">
     <mxGraphModel dx="1194" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
