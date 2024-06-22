@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T19:19:56.476Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="lW8uHRHy-GFZOOiHJuwq" version="24.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-22T19:21:49.045Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="OpgSXqDINsReTV1Pfjp6" version="24.6.2" type="github" pages="5">
   <diagram name="Architecture Diagram" id="JZH0-FLLyCloRmju1dn3">
     <mxGraphModel dx="934" dy="1718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -175,7 +175,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HQ6WIlq9E0ZuxYudx7xZ" name="Data Flow Diagram">
-    <mxGraphModel dx="1194" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,6 +228,29 @@
         </mxCell>
         <mxCell id="bp-BXLU3v_yBO-hQS9EJ-14" value="get user settings" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="580" y="185" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="J03BTioiKBqVJGi235T6" name="User Interface">
+    <mxGraphModel dx="1194" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bYnkAuTAWSsS0UE6x7nm-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_cube.svg;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="126" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="bYnkAuTAWSsS0UE6x7nm-2" value="Logout" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="70" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bYnkAuTAWSsS0UE6x7nm-3" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Solve" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bYnkAuTAWSsS0UE6x7nm-4" value="Reset" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="470" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bYnkAuTAWSsS0UE6x7nm-5" value="Scramble" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="290" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
