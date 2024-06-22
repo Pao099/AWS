@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T18:59:49.952Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="H7uejo4IUT130knNYZSM" version="24.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-22T19:19:02.276Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="GZQ2qnJFOtRRHTOhTEXD" version="24.6.2" type="github" pages="4">
   <diagram name="Architecture Diagram" id="JZH0-FLLyCloRmju1dn3">
     <mxGraphModel dx="934" dy="1718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -170,6 +170,64 @@
         </mxCell>
         <mxCell id="YPyH5qNkjhE4wjmVVlKB-7" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="303.34000000000003" y="260" width="83.33" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HQ6WIlq9E0ZuxYudx7xZ" name="Data Flow Diagram">
+    <mxGraphModel dx="1194" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bp-BXLU3v_yBO-hQS9EJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bp-BXLU3v_yBO-hQS9EJ-1" target="bp-BXLU3v_yBO-hQS9EJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bp-BXLU3v_yBO-hQS9EJ-1" value="Game Player" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bp-BXLU3v_yBO-hQS9EJ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bp-BXLU3v_yBO-hQS9EJ-2" target="bp-BXLU3v_yBO-hQS9EJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bp-BXLU3v_yBO-hQS9EJ-2" value="log in" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="300" y="185" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bp-BXLU3v_yBO-hQS9EJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bp-BXLU3v_yBO-hQS9EJ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bp-BXLU3v_yBO-hQS9EJ-3" value="Authentication Database" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="430" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bp-BXLU3v_yBO-hQS9EJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bp-BXLU3v_yBO-hQS9EJ-4" target="bp-BXLU3v_yBO-hQS9EJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bp-BXLU3v_yBO-hQS9EJ-4" value="Website/ API Interface" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="430" y="190" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bp-BXLU3v_yBO-hQS9EJ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bp-BXLU3v_yBO-hQS9EJ-5" target="bp-BXLU3v_yBO-hQS9EJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bp-BXLU3v_yBO-hQS9EJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bp-BXLU3v_yBO-hQS9EJ-5" target="bp-BXLU3v_yBO-hQS9EJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bp-BXLU3v_yBO-hQS9EJ-5" value="Validate user login" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="450" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bp-BXLU3v_yBO-hQS9EJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bp-BXLU3v_yBO-hQS9EJ-14" target="bp-BXLU3v_yBO-hQS9EJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bp-BXLU3v_yBO-hQS9EJ-6" value="User Settings" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="690" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bp-BXLU3v_yBO-hQS9EJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bp-BXLU3v_yBO-hQS9EJ-6" target="bp-BXLU3v_yBO-hQS9EJ-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="215" as="sourcePoint" />
+            <mxPoint x="530" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bp-BXLU3v_yBO-hQS9EJ-14" value="get user settings" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="580" y="185" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
