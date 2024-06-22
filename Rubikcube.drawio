@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T23:14:11.588Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="FXhz4MBHCZwyLrkBoBPg" version="24.6.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-06-22T23:20:46.465Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="lvav84WLV0HFnXdHFovh" version="24.6.2" type="github" pages="9">
   <diagram id="TLsGfiIsSxEGUOccpMmi" name="Use Case Diagram">
     <mxGraphModel dx="1493" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -512,7 +512,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="5RXSKTbeO3yGmVyoT3ex" name="Class Diagram">
+  <diagram id="5RXSKTbeO3yGmVyoT3ex" name="Code Class Diagram">
     <mxGraphModel dx="2044" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -674,8 +674,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Egceo9zAgwGMXEFVdeKS" name="Page-8">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="Egceo9zAgwGMXEFVdeKS" name="Data Class Diagram">
+    <mxGraphModel dx="1194" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
