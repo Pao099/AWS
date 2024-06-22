@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T22:02:42.454Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="ucPakpsdj1gB-vTMLPnq" version="24.6.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-06-22T22:10:06.227Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="OezjTf6X6wnOyt4fAtfw" version="24.6.2" type="github" pages="6">
   <diagram name="Architecture Diagram" id="JZH0-FLLyCloRmju1dn3">
     <mxGraphModel dx="934" dy="1718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -269,6 +269,57 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HW_Qe8jVQ02O22kcvI9o-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4Jm7LfbepZZmnhMojFW-1" target="HW_Qe8jVQ02O22kcvI9o-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4Jm7LfbepZZmnhMojFW-1" value="Start" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="340" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HW_Qe8jVQ02O22kcvI9o-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HW_Qe8jVQ02O22kcvI9o-1" target="HW_Qe8jVQ02O22kcvI9o-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HW_Qe8jVQ02O22kcvI9o-16" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HW_Qe8jVQ02O22kcvI9o-15">
+          <mxGeometry x="-0.2324" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HW_Qe8jVQ02O22kcvI9o-1" value="Is cube scrambled?" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="210" width="85" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HW_Qe8jVQ02O22kcvI9o-2" value="Press Scramble Button" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HW_Qe8jVQ02O22kcvI9o-3" value="" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="500" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HW_Qe8jVQ02O22kcvI9o-4" value="Do you want to Autosolve?" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="320" width="105" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HW_Qe8jVQ02O22kcvI9o-5" value="Press Autosolve" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="500" y="330" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HW_Qe8jVQ02O22kcvI9o-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HW_Qe8jVQ02O22kcvI9o-6" target="HW_Qe8jVQ02O22kcvI9o-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HW_Qe8jVQ02O22kcvI9o-11" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HW_Qe8jVQ02O22kcvI9o-10">
+          <mxGeometry x="-0.088" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HW_Qe8jVQ02O22kcvI9o-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HW_Qe8jVQ02O22kcvI9o-6" target="HW_Qe8jVQ02O22kcvI9o-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HW_Qe8jVQ02O22kcvI9o-13" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HW_Qe8jVQ02O22kcvI9o-12">
+          <mxGeometry x="0.32" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HW_Qe8jVQ02O22kcvI9o-6" value="Do you want to watch Tutorials?" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="80" width="105" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HW_Qe8jVQ02O22kcvI9o-7" value="Press Tutorials Button" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="470" y="100" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
