@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T19:48:43.774Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="GCLJsXAf5edrS7Pf4Zrj" version="24.6.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-22T19:49:24.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="_iBGCB3Ijzam-Lyotid5" version="24.6.2" type="github" pages="5">
   <diagram name="Architecture Diagram" id="JZH0-FLLyCloRmju1dn3">
     <mxGraphModel dx="934" dy="1718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -244,22 +244,22 @@
           <mxGeometry x="490" y="70" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYnkAuTAWSsS0UE6x7nm-3" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Solve" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="230" y="290" width="90" height="40" as="geometry" />
+          <mxGeometry x="220" y="140" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYnkAuTAWSsS0UE6x7nm-4" value="Reset" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="470" y="290" width="90" height="40" as="geometry" />
+          <mxGeometry x="220" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYnkAuTAWSsS0UE6x7nm-5" value="Scramble" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="350" y="290" width="90" height="40" as="geometry" />
+          <mxGeometry x="490" y="140" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bYnkAuTAWSsS0UE6x7nm-6" value="Welcome, Jeffrey!" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="220" y="70" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6G7B8GYVv596sL3TSumt-1" value="Tutorials" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="490" y="200" width="90" height="40" as="geometry" />
+          <mxGeometry x="338" y="60" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6G7B8GYVv596sL3TSumt-2" value="Timer" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;bpmnShapeType=subprocess;isLoopSub=1;outline=eventInt;symbol=timer;" vertex="1" parent="1">
-          <mxGeometry x="345" y="70" width="80" height="40" as="geometry" />
+          <mxGeometry x="495" y="240" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
